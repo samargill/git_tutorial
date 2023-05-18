@@ -1,2 +1,0 @@
-this is version 1 of my index file
-I want only this file to go to 2nd Commit
